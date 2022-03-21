@@ -8,7 +8,7 @@
 ### Install paho-mqtt on Raspberry Pi
 `$ pip install paho-mqtt`
 
-### Install
+### Install gpiozero
 `$ pip install gpiozero`
 
 ### Execute Code
